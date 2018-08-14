@@ -1,0 +1,26 @@
+.logo-with-subtext {
+  display: flex;
+  align-items: center;
+
+  &.vertical {
+    display: block;
+    text-align: center;
+    > .logo {
+      font-size: 30px;
+    }
+    > .subtext {
+      margin-left: 0;
+    }
+  }
+
+  > .logo {
+    color: $primary;
+    font-size: 20px;
+  }
+
+  > .subtext {
+    margin-left: 10px;
+    color: #909090;
+    font-size: 12px;
+  }
+}

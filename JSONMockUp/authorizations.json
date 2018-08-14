@@ -1,0 +1,1334 @@
+[
+  {
+    "app-id": "cprm",
+    "app-type": "mobileapp",
+    "app-name": null,
+    "menu-items": [
+      {
+        "menu-id": "app.cprm.menu.01000000000000000000",
+        "menu-name": "รายการขาย",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "app.cprm.menu.01010000000000000000",
+            "menu-name": "ลงทะเบียนซิมเติมเงิน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01030000000000000000",
+            "menu-name": "ขาย",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01040000000000000000",
+            "menu-name": "ทำรายการย้ายค่าย",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01050000000000000000",
+            "menu-name": "บริการหลังการขาย",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01060000000000000000",
+            "menu-name": "Call Card Visit",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01070000000000000000",
+            "menu-name": "เปลี่ยนเจ้าของซิมเติมเงิน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01080000000000000000",
+            "menu-name": "บริการเติมเงิน (Mobile Topup)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01090000000000000000",
+            "menu-name": "ยกเลิกการทำรายการเติมเงิน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01100000000000000000",
+            "menu-name": "ขายแพ็กเกจเสริม (VAS)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01110000000000000000",
+            "menu-name": "จัดการคลังสินค้า",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01120000000000000000",
+            "menu-name": "โปรรายเดือนขายดี",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.01130000000000000000",
+            "menu-name": "คะแนนพ้อยท์พลัส",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "app.cprm.menu.02000000000000000000",
+        "menu-name": "รายงาน",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "app.cprm.menu.02010000000000000000",
+            "menu-name": "dashboard",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02020000000000000000",
+            "menu-name": "dashboard",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02030000000000000000",
+            "menu-name": "รายงานค่าคอมมิชชั่น",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02040000000000000000",
+            "menu-name": "รายงานซิมที่ยังมีการใช้งาน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02050000000000000000",
+            "menu-name": "รายงานยอดขายแพ็กเกจเสริม",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02060000000000000000",
+            "menu-name": "รายงาน S2 ที่อยู่ภายใต้ Hierarchy",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02070000000000000000",
+            "menu-name": "รายงานยอดการเติมเงินผ่านมือถือ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02080000000000000000",
+            "menu-name": "รายงานยอดการเติมเงินผ่านมือถือ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02090000000000000000",
+            "menu-name": "รายงานสถานะการเปิดเบอร์",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02100000000000000000",
+            "menu-name": "รายงานการย้ายค่าย (MNP)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02110000000000000000",
+            "menu-name": "รายงานการขาย",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02120000000000000000",
+            "menu-name": "รายงานการเปิดเบอร์",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02130000000000000000",
+            "menu-name": "รายงานการสั่งซื้อ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02140000000000000000",
+            "menu-name": "รายงานการสั่งซื้อ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02150000000000000000",
+            "menu-name": "ตรวจสอบสถานะการยกเลิก",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02160000000000000000",
+            "menu-name": "รายงานเติมเงิน(Topout)ของวันที่ย้อนหลัง",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02170000000000000000",
+            "menu-name": "รายงานเติมเงิน(Topout)ของวันที่ปัจจุบัน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02180000000000000000",
+            "menu-name": "สรุปยอดการเติมเงิน (Top out)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02190000000000000000",
+            "menu-name": "รายการขายแพ็กเกจเสริมของวันที่ปัจจุบัน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02200000000000000000",
+            "menu-name": "รายการขายแพ็กเกจเสริมของวันที่ย้อนหลัง",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02210000000000000000",
+            "menu-name": "สรุปยอดการขายแพ็กเกจเสริม",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02220000000000000000",
+            "menu-name": "รายงานพ้อยท์พลัส",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02230000000000000000",
+            "menu-name": "รายงานยอดการเติมเงินสะสม(CS)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.02240000000000000000",
+            "menu-name": "Credit Note Report",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "app.cprm.menu.03000000000000000000",
+        "menu-name": "ข้อมูลข่าวสารและกิจกรรม",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": null
+      },
+      {
+        "menu-id": "app.cprm.menu.04000000000000000000",
+        "menu-name": "สอบถามข้อมูล",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": null
+      },
+      {
+        "menu-id": "app.cprm.menu.05000000000000000000",
+        "menu-name": "ข้อมูลทั่วไป",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "app.cprm.menu.05010000000000000000",
+            "menu-name": "ข้อมูลส่วนตัว",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "app.cprm.menu.05030000000000000000",
+            "menu-name": "Privacy Policy",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "app-id": "cprm",
+    "app-type": "webapp",
+    "app-name": null,
+    "menu-items": [
+      {
+        "menu-id": "web.cprm.menu.02000000000000000000",
+        "menu-name": "ข้อมูลข่าวสารและกิจกรรม",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": null
+      },
+      {
+        "menu-id": "web.cprm.menu.03000000000000000000",
+        "menu-name": "ข้อมูลส่วนตัว",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.03010000000000000000",
+            "menu-name": "ข้อมูลส่วนตัว",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.04000000000000000000",
+        "menu-name": "ยอดค่าคอมมิชชั่น",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.04010000000000000000",
+            "menu-name": "ยอดค่าคอมมิชชั่น",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.05000000000000000000",
+        "menu-name": "ขายสินค้าและบริการ",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.05010000000000000000",
+            "menu-name": "ขายสินค้าและบริการ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.05020000000000000000",
+            "menu-name": "รายการสำหรับตัวแทนจำหน่าย",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05020100000000000000",
+                "menu-name": "ตรวจสอบ Blacklist",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05020200000000000000",
+                "menu-name": "ตรวจสอบยอดค้างชำระPost Pay , ATB2 Post Pay",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05020300000000000000",
+                "menu-name": "เมนูตรวจสอบซิม",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.05030000000000000000",
+            "menu-name": "การจัดการเลขหมาย",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05030100000000000000",
+                "menu-name": "จองเลขหมายโทรศัพท์",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05030200000000000000",
+                "menu-name": "รายการหมายเลข",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05030300000000000000",
+                "menu-name": "รายการเลขหมายจัดสรร",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.05040000000000000000",
+            "menu-name": "บริการย้ายค่ายเบอร์เดิม(MNP)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05040100000000000000",
+                "menu-name": "ทำรายการย้ายค่าย (MNP)",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05040200000000000000",
+                "menu-name": "MNP Report",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.05050000000000000000",
+            "menu-name": "เปิดบริการอื่นๆ ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05050100000000000000",
+                "menu-name": "WeMall",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05050200000000000000",
+                "menu-name": "ช่องทางการขาย TDSC",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05050300000000000000",
+                "menu-name": "Share Plan (แยกจาก Single E-Form เดิม)",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05050400000000000000",
+                "menu-name": "Privilage Open Market",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05050500000000000000",
+                "menu-name": "บริการเสริม True move H (ไม่มีเมนูเดิม)",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05050600000000000000",
+                "menu-name": "Smart Choice Family",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05050700000000000000",
+                "menu-name": "Smart Choice SIM 2",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.05060000000000000000",
+            "menu-name": "ปั๊มเติมเงิน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05060100000000000000",
+                "menu-name": "Top Up Partner (L1)",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": [
+                  {
+                    "menu-id": "web.cprm.menu.05060101000000000000",
+                    "menu-name": "ค้นหาใบสั่งซื้อ L1",
+                    "grant": false,
+                    "favorite": false,
+                    "modify": false,
+                    "sub-menu": null
+                  },
+                  {
+                    "menu-id": "web.cprm.menu.05060102000000000000",
+                    "menu-name": "รายงานรายละเอียดการขายของ L1",
+                    "grant": false,
+                    "favorite": false,
+                    "modify": false,
+                    "sub-menu": null
+                  },
+                  {
+                    "menu-id": "web.cprm.menu.05060103000000000000",
+                    "menu-name": "รายงานสรุปการขายของ L1",
+                    "grant": false,
+                    "favorite": false,
+                    "modify": false,
+                    "sub-menu": null
+                  }
+                ]
+              },
+              {
+                "menu-id": "web.cprm.menu.05060200000000000000",
+                "menu-name": "Mobile Top up (L2)",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": [
+                  {
+                    "menu-id": "web.cprm.menu.05060201000000000000",
+                    "menu-name": "รายงานสรุปการขาย Air-time ของ L2",
+                    "grant": false,
+                    "favorite": false,
+                    "modify": false,
+                    "sub-menu": null
+                  },
+                  {
+                    "menu-id": "web.cprm.menu.05060202000000000000",
+                    "menu-name": "รายงานสรุปตัวแทนจำหน่ายรายย่อย L2",
+                    "grant": false,
+                    "favorite": false,
+                    "modify": false,
+                    "sub-menu": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.05070000000000000000",
+            "menu-name": "ลงทะเบียน L1.5",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05070100000000000000",
+                "menu-name": "ลงทะเบียน L1.5 ใหม่",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05070200000000000000",
+                "menu-name": "ค้นหา / แก้ไขข้อมูล L1.5",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05070300000000000000",
+                "menu-name": "แบบฟอร์มลงทะเบียน L1.5",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.05080000000000000000",
+            "menu-name": "Sales tracking",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05080100000000000000",
+                "menu-name": "บันทึกจากเครื่องที่สำนักงาน",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05080200000000000000",
+                "menu-name": "บันทึกจากเครื่องจัดเก็บข้อมูลแบบพกพา",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05080300000000000000",
+                "menu-name": "ตรวจสอบข้อมูลสแกนซิม",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05080400000000000000",
+                "menu-name": "ค้นหารายงานการบันทึกข้อมูลซิม",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05080500000000000000",
+                "menu-name": "ตรวจสอบข้อมูล",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05080600000000000000",
+                "menu-name": "ยกเลิกการสแกนซิม",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05080700000000000000",
+                "menu-name": "รายงานการยกเลิกการสแกนซิม",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05080800000000000000",
+                "menu-name": "เปลี่ยนแปลงรหัสตัวแทนคู่ค้า(S2)",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05080900000000000000",
+                "menu-name": "รายงานการเปลี่ยนแปลงรหัสตัวแทนคู่ค้า(S2) ",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05081000000000000000",
+                "menu-name": "ค้นหาหมายเลขของผู้จัดจำหน่ายรายย่อย",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.05090000000000000000",
+            "menu-name": "Sale Tracking Report",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05090100000000000000",
+                "menu-name": "รายงานเพื่อนคู่ค้า",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": [
+                  {
+                    "menu-id": "web.cprm.menu.05090101000000000000",
+                    "menu-name": "รายงานแสดงการอัพโหลด S1(Upload)",
+                    "grant": false,
+                    "favorite": false,
+                    "modify": false,
+                    "sub-menu": null
+                  }
+                ]
+              },
+              {
+                "menu-id": "web.cprm.menu.05090200000000000000",
+                "menu-name": "รายงานตัวแทนคู่ค้ารายย่อย",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": [
+                  {
+                    "menu-id": "web.cprm.menu.05090201000000000000",
+                    "menu-name": "รายงานแสดงการอัพโหลด S2(Upload)",
+                    "grant": false,
+                    "favorite": false,
+                    "modify": false,
+                    "sub-menu": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.05100000000000000000",
+            "menu-name": "รายงานและการตรวจสอบสถานะการทำรายการ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.05100100000000000000",
+                "menu-name": "ตรวจสอบสถานะรายการขายสินค้า \"ขายสินค้าและบริการ\"(Order monitor)",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05100200000000000000",
+                "menu-name": "ตรวจสอบสถานะรายการ \"การเปิดบริการอื่น\" (Activation Report)",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.05100300000000000000",
+                "menu-name": "รายการสรุปการเปิดเลขหมาย TCC/TSM",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.06000000000000000000",
+        "menu-name": "คลังสินค้า",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.06010000000000000000",
+            "menu-name": "จัดการคลังสินค้า",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.06020000000000000000",
+            "menu-name": "นำฝากเงิน (Payin)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.07000000000000000000",
+        "menu-name": "Web Ordering",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.07010000000000000000",
+            "menu-name": "สั่งซื้อสินค้า",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.08000000000000000000",
+        "menu-name": "บริการหลังการขาย",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.08010000000000000000",
+            "menu-name": "บริการหลังการขาย Truemove H",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.08010100000000000000",
+                "menu-name": "เปลี่ยนแปลงโปรโมชั่น",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.08010200000000000000",
+                "menu-name": "การเปลี่ยนซิมการ์ด",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.08010300000000000000",
+                "menu-name": "เปลี่ยนจากเติมเงินเป็นรายเดือน",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.08010400000000000000",
+                "menu-name": "เปิดสัญญาณจากการระงับใช้ชั่วคราว",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.08020000000000000000",
+            "menu-name": "บริการหลังการขาย True Vision",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.08020100000000000000",
+                "menu-name": "TVS Member get Member",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          },
+          {
+            "menu-id": "web.cprm.menu.08030000000000000000",
+            "menu-name": "รายงานและการตรวจสอบสถานะรายการ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.08030100000000000000",
+                "menu-name": "ตรวจสอบสถานะรายการ",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.09000000000000000000",
+        "menu-name": "ดาวน์โหลดแบบฟอร์มต่างๆ",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.09010000000000000000",
+            "menu-name": "แบบฟอร์มขอ User & Password",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09020000000000000000",
+            "menu-name": "แบบฟอร์มขอเปลี่ยนซิมการ์ด",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09030000000000000000",
+            "menu-name": "แบบฟอร์มขอเปลี่ยนแปลงข้อมูลเพื่อนคู่ค้า",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09040000000000000000",
+            "menu-name": "แบบฟอร์มขอส่งคืน บัตรเติมเงิน บัตรเงินสด",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09050000000000000000",
+            "menu-name": "แบบฟอร์มขอสั่งซื้อสินค้า",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09060000000000000000",
+            "menu-name": "แบบฟอร์มนำส่ง Fax จดทะเบียน Off-Line",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09070000000000000000",
+            "menu-name": "แบบฟอร์มใบรายงานการส่งคืนสินค้า",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09080000000000000000",
+            "menu-name": "แบบฟอร์มใบรายงานสินค้าสูญหาย",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09090000000000000000",
+            "menu-name": "แบบฟอร์มหนังสือยินยอมให้หักบัญชี SCB",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09100000000000000000",
+            "menu-name": "แบบฟอร์มหนังสือยินยอมให้หักบัญชี BBL",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09110000000000000000",
+            "menu-name": "แบบฟอร์มหนังสือยินยอมให้หักบัญชี KTC",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09120000000000000000",
+            "menu-name": "Post Pay Activation Form",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09130000000000000000",
+            "menu-name": "แบบคำร้องขอใช้ หรือเปลี่ยนแปลงการใช้บริการ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09140000000000000000",
+            "menu-name": "เอกสารคำขอเพื่อการจดทะบียน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09150000000000000000",
+            "menu-name": "แบบฟอร์มจดทะเบียนทรูมูฟแบบรายเดือนสำหรับบุคคลธรรมดา(ขนาด A5)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09160000000000000000",
+            "menu-name": "แบบฟอร์ม อื่นๆ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09170000000000000000",
+            "menu-name": "แบบฟอร์มการสมัคร Convergence (4in1)",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09180000000000000000",
+            "menu-name": "เอกสารรับสิทธิ์ CVG",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.09190000000000000000",
+            "menu-name": "แบบฟอร์ม SSK",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": [
+              {
+                "menu-id": "web.cprm.menu.09190100000000000000",
+                "menu-name": "เอกสารขอคืนสินค้า ชำรุด/เปลี่ยนใน 7 วัน",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.09190200000000000000",
+                "menu-name": "เอกสารส่งอุปกรณ์เสียส่งซ่อม",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.09190300000000000000",
+                "menu-name": "เอกสารยืมเครื่องระหว่างซ่อม",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              },
+              {
+                "menu-id": "web.cprm.menu.09190400000000000000",
+                "menu-name": "เอกสารยืนยันการรับสิทธิ์ SSK",
+                "grant": false,
+                "favorite": false,
+                "modify": false,
+                "sub-menu": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.10000000000000000000",
+        "menu-name": "DPS-DocumentProcessSystem",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.10010000000000000000",
+            "menu-name": "จัดการเอกสารการสมัคร",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.11000000000000000000",
+        "menu-name": "รายงาน",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.11010000000000000000",
+            "menu-name": "คะแนนพ้อยท์พลัส",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11020000000000000000",
+            "menu-name": "รายงานการเปิดเบอร์",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11030000000000000000",
+            "menu-name": "รายงานการสั่งซื้อ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11040000000000000000",
+            "menu-name": "รายงานการสั่งซื้อ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11050000000000000000",
+            "menu-name": "รายงานยอดการเติมเงิน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11060000000000000000",
+            "menu-name": "รายงานซิมที่ยังมีการใช้งาน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11070000000000000000",
+            "menu-name": "รายงานยอดขายแพ็กเกจเสริม",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11080000000000000000",
+            "menu-name": "รายงานยอดการเติมเงินผ่านมือถือ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11090000000000000000",
+            "menu-name": "รายงานยอดการเติมเงินผ่านมือถือ",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11100000000000000000",
+            "menu-name": "รายงานการขาย",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11110000000000000000",
+            "menu-name": "รายงานเติมเงิน(Topout)ของวันที่ปัจจุบัน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11120000000000000000",
+            "menu-name": "รายงานเติมเงิน(Topout)ของวันที่ย้อนหลัง",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11130000000000000000",
+            "menu-name": "ยกเลิกการทำรายการเติมเงิน",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11140000000000000000",
+            "menu-name": "ตรวจสอบสถานะการยกเลิก",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          },
+          {
+            "menu-id": "web.cprm.menu.11150000000000000000",
+            "menu-name": "Credit Note Report",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.12000000000000000000",
+        "menu-name": "คลังความรู้เพื่อนคู่ค้า",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": [
+          {
+            "menu-id": "web.cprm.menu.12010000000000000000",
+            "menu-name": "คลังความรู้เพื่อนคู่ค้า",
+            "grant": false,
+            "favorite": false,
+            "modify": false,
+            "sub-menu": null
+          }
+        ]
+      },
+      {
+        "menu-id": "web.cprm.menu.13000000000000000000",
+        "menu-name": "สอบถามข้อมูล",
+        "grant": false,
+        "favorite": false,
+        "modify": false,
+        "sub-menu": null
+      }
+    ]
+  }
+]

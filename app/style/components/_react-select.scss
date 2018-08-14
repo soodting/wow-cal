@@ -1,0 +1,27 @@
+.react-select__control {
+  height: 32px;
+  min-height: auto !important;
+  border-color: #dbdbdb !important;
+
+  &-is-focused {
+    box-shadow: none !important;
+  }
+}
+
+.control:last-child .react-select__control {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+
+.control:first-child .react-select__control {
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+.control {
+  &:not(:last-child):not(:first-child) {
+    .react-select__control {
+      border-radius: 0 !important;
+    }
+  }
+}

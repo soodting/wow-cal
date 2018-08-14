@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'true-logo';
+  src:  url('../fonts/true-logo.eot?w97myk');
+  src:  url('../fonts/true-logo.eot?w97myk#iefix') format('embedded-opentype'),
+    url('../fonts/true-logo.ttf?w97myk') format('truetype'),
+    url('../fonts/true-logo.woff?w97myk') format('woff'),
+    url('../fonts/true-logo.svg?w97myk#true-logo') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-true-"], [class*=" icon-true-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'true-logo' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-true-logo:before {
+  content: "\e900";
+}

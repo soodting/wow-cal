@@ -1,0 +1,30 @@
+.box-wrapper {
+  $padding: 20px;
+  $radius: 5px;
+
+  margin: 40px auto 140px;
+  width: 1000px;
+  position: relative;
+  z-index: 1;
+
+  > .head {
+    position: relative;
+    z-index: 2;
+    padding: $padding;
+    background: #eee;
+    border-top-right-radius: $radius;
+    border-top-left-radius: $radius;
+  }
+
+  > .body {
+    padding: $padding;
+    border: 1px solid #eee;
+    background: #fff;
+    border-bottom-right-radius: $radius;
+    border-bottom-left-radius: $radius;
+
+    &:first-child {
+      border-radius: $radius;
+    }
+  }
+}
