@@ -1,11 +1,8 @@
 .web-header {
-  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 3;
-  background: #fff;
-  box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.06);
   display: flex;
   align-items: center;
   padding: 14px 20px;
@@ -17,9 +14,27 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: -20px;
-    width: 60px;
+    margin-left: 20px;
     height: 40px;
     font-size: 25px;
+  }
+
+  a {
+    color: #4a4a4a;
+    padding: 0 5px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+  }
+  a:hover {
+    border: 1px solid #4a4a4a;
+  }
+
+  > .active {
+    > a {
+      color: red;
+      border: 1px solid red;
+      padding: 0 5px;
+      border-radius: 5px;
+    }
   }
 }

@@ -1,5 +1,6 @@
 import { createActionWithFetching } from '../helpers'
 import demoModule from '../modules/demo'
+import allModule from '../modules/all'
 import { fetchSaveAuthorize } from '../api/fetchers'
 
 const saveAuthorize = ({ body, identity }) => {
@@ -18,4 +19,8 @@ const saveAuthorize = ({ body, identity }) => {
   })
 }
 
-export { saveAuthorize }
+const setShowModal = (val) => async (dispatch) => {
+  dispatch(allModule.actions.updateShowModal(val))
+}
+
+export { saveAuthorize, setShowModal }

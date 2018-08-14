@@ -57,6 +57,7 @@
     }
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
     "babel-cli": "^6.23.0",
     "babel-core": "^6.23.1",
     "babel-eslint": "8.2.3",
@@ -74,7 +75,7 @@
     "classnames": "^2.2.6",
     "es6-promise": "^4.0.5",
     "express": "^4.14.1",
-    "glud-component": "^1.0.18",
+    "glud-component": "^1.2.0",
     "ignore-styles": "^5.0.1",
     "prop-types": "^15.6.0",
     "react": "16.4.0",
@@ -91,7 +92,8 @@
     "redux-logger": "^3.0.1",
     "redux-modux": "^1.0.3",
     "redux-thunk": "2.3.0",
-    "webpack-isomorphic-tools": "3.0.6"
+    "webpack-isomorphic-tools": "3.0.6",
+    "cloudscraper": "^1.5.0"
   },
   "devDependencies": {
     "chalk": "2.4.1",

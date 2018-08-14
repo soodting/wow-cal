@@ -1,7 +1,7 @@
 import { createFetcher } from '../helpers'
 import config from '../../configs'
 
-const URL = `${config.host}/svc-authorization/api/management`
+const URL = `${config.host}`
 
 const fetchSaveAuthorize = ({ body, params }) =>
   createFetcher({
@@ -12,4 +12,11 @@ const fetchSaveAuthorize = ({ body, params }) =>
     jsonMock: 'saveAuthorize.json'
   })
 
-export { fetchSaveAuthorize }
+const fetchCallApi = (params) =>
+  createFetcher({
+    url: `${URL}/callApi`,
+    params,
+    jsonMock: 'marketData.json'
+  })
+
+export { fetchSaveAuthorize, fetchCallApi }

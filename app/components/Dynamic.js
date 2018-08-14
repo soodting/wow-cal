@@ -16,6 +16,10 @@ export default class Dynamic extends React.PureComponent {
   render () {
     const { Component } = this.state
 
-    return <div>{Component ? <Component /> : 'Loading'}</div>
+    return (
+      <div>
+        <div>{Component ? <Component /> : 'Loading'}</div>
+      </div>
+    )
   }
 }

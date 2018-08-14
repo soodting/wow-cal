@@ -9,6 +9,8 @@ import webpackConfig from '../configs/webpack.config.dev.babel'
 import projectPath from '../configs/path'
 import config from '../configs'
 
+const cloudscraper = require('cloudscraper')
+
 const app = express()
 
 const protocol = process.env.HTTPS === 'true' ? 'https' : 'http'
@@ -76,10 +78,25 @@ const startDevServer = async () => {
     app.use('/public', express.static('public'))
     app.use('/JSONMockUp', express.static('JSONMockUp'))
 
-    app.get('/tests', async (req, res) => {
+    app.get('/callApi?:url', async (req, res) => {
       console.log('### call api ###')
-      res.json({ x1: 0 })
+      console.log(req.query.url)
+      cloudscraper.get(req.query.url, function (error, response, body) {
+        if (error) {
+          console.log('Error occurred')
+          res.json({ status: 0 })
+        } else {
+          console.log(response.statusCode)
+          if (response.statusCode === 200) {
+            const jsonBody = JSON.parse(body)
+            res.json({ status: response.statusCode, json: jsonBody })
+          } else {
+            res.json({ status: response.statusCode })
+          }
+        }
+      })
     })
+
     app.get('*', (req, res) => {
       res.sendFile(projectPath.htmlIndex)
     })

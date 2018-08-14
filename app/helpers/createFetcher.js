@@ -1,7 +1,7 @@
 import { fetchGET, fetchPOST } from '../api'
 
-const mock = process.env.NODE_ENV === 'development'
-// const mock = false
+// const mock = process.env.NODE_ENV === 'development'
+const mock = false
 
 export default ({
   method = 'get',
