@@ -1,5 +1,5 @@
-# React Redux Boilerplate
-React starter boilerplate for SPA and SSR
+# Wow-
+React wow
 ### Main Tools
 
 - [React (16.4.0)](https://github.com/facebook/react)
